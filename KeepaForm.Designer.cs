@@ -75,11 +75,16 @@
             0,
             0,
             0});
+            this.numericTimeout.Minimum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.numericTimeout.Name = "numericTimeout";
             this.numericTimeout.Size = new System.Drawing.Size(120, 20);
             this.numericTimeout.TabIndex = 2;
             this.numericTimeout.Value = new decimal(new int[] {
-            10000,
+            60000,
             0,
             0,
             0});

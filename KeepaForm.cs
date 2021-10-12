@@ -41,8 +41,9 @@ namespace org.cameek.Keepa
             if (inactiveMillis > numericTimeout.Value)
             {
                 Cursor = new Cursor(Cursor.Current.Handle);
-                Cursor.Position = new Point(Cursor.Position.X + random.Next(0, 50) - random.Next(0, 50), Cursor.Position.Y + random.Next(0, 50) - random.Next(0, 50));
+                Cursor.Position = new Point(Cursor.Position.X + random.Next(0, 10) - random.Next(0, 10), Cursor.Position.Y + random.Next(0, 10) - random.Next(0, 10));
                 labelInactiveFor.ForeColor = Color.Blue;
+                SendKeys.Send("{F15}");
             }
             else
             {
