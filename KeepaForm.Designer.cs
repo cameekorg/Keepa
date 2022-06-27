@@ -71,7 +71,7 @@
             0});
             this.numericTimeout.Location = new System.Drawing.Point(15, 25);
             this.numericTimeout.Maximum = new decimal(new int[] {
-            100000,
+            1000001,
             0,
             0,
             0});
@@ -84,7 +84,7 @@
             this.numericTimeout.Size = new System.Drawing.Size(120, 20);
             this.numericTimeout.TabIndex = 2;
             this.numericTimeout.Value = new decimal(new int[] {
-            60000,
+            240000,
             0,
             0,
             0});

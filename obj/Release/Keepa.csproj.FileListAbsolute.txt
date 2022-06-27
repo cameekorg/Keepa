@@ -7,3 +7,14 @@ C:\Users\jaros\Source\Repos\Keepa\obj\Release\Keepa.csproj.GenerateResource.cach
 C:\Users\jaros\Source\Repos\Keepa\obj\Release\Keepa.csproj.CoreCompileInputs.cache
 C:\Users\jaros\Source\Repos\Keepa\obj\Release\Keepa.exe
 C:\Users\jaros\Source\Repos\Keepa\obj\Release\Keepa.pdb
+C:\Users\jaros\Git\Keepa\bin\Release\Keepa.exe.config
+C:\Users\jaros\Git\Keepa\bin\Release\Keepa.exe
+C:\Users\jaros\Git\Keepa\bin\Release\Keepa.pdb
+C:\Users\jaros\Git\Keepa\obj\Release\Keepa.csproj.AssemblyReference.cache
+C:\Users\jaros\Git\Keepa\obj\Release\Keepa.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaros\Git\Keepa\obj\Release\org.cameek.Keepa.KeepaForm.resources
+C:\Users\jaros\Git\Keepa\obj\Release\Keepa.Properties.Resources.resources
+C:\Users\jaros\Git\Keepa\obj\Release\Keepa.csproj.GenerateResource.cache
+C:\Users\jaros\Git\Keepa\obj\Release\Keepa.csproj.CoreCompileInputs.cache
+C:\Users\jaros\Git\Keepa\obj\Release\Keepa.exe
+C:\Users\jaros\Git\Keepa\obj\Release\Keepa.pdb
